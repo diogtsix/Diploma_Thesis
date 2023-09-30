@@ -1,3 +1,5 @@
+# Diploma_Thesis_FullText_in_English
+# Diploma_Thesis_FullText_in_Greek
 # Diploma_Thesis_PowerPoint_Presentation
 Aeroelastic analysis of a turboprop aircraft's propeller and stability analysis for the Whirl Flutter aeroelastic phenomenon
 
